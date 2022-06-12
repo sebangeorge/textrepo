@@ -1,0 +1,3 @@
+git init => initialisation of git 
+git status => list all untracked files
+git add -A =>adding all changes
