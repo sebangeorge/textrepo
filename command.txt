@@ -1,4 +1,4 @@
 git init => initialisation of git 
 git status => list all untracked files
-git add -A =>adding all changes to staging area
-git commit -m "message" => adding all changes to local repo
+git add -A => adding all changes to staging area
+git commit -m "message"=> adding to all changes to local repo
