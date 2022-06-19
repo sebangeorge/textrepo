@@ -2,6 +2,6 @@ git init => initialisation of git
 git status => list all untracked files
 git add -A => adding all changes to staging area
 git commit -m "message"=> adding to all changes to local repo
-git remote add text ..(link frm github).
+git remote add name path(link in github)
 git remote -v
-git push
+git push  -u name branch
